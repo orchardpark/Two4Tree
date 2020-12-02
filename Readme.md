@@ -9,3 +9,10 @@ In particular it supports the following operations:
 - delete: Delete key value pair. Complexity: O(log(n))
 - rank: Get ordered rank of key. Complexity: O(log(n))
 - select: Select the i-th ranked item. Complexity: O(log(n))
+
+## Installation
+Requirements: `g++`
+
+Compile the program running: `make`.
+
+The main file with some testcases can then be run by executing `./main`.
